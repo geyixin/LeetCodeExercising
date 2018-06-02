@@ -5,5 +5,8 @@
 
 题目网址：https://leetcode-cn.com/problems/3sum/description/
 
-本代码通过的测试用例：235 / 313 个
+Old3sum.py代码通过的测试用例：235 / 313 个
 状态：超出时间限制
+
+New3sum.py代码通过的测试用例：313 / 313 个
+状态：通过

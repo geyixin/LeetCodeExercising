@@ -4,7 +4,6 @@
 __author__ = 'geyixin'
 
 
-
 class Solution:
     def threeSum(self, nums):
         n = len(nums)
