@@ -1,3 +1,10 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+__author__ = 'geyixin'
+
+
+
 class Solution:
     def threeSum(self, nums):
         n = len(nums)
