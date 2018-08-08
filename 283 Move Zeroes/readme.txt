@@ -17,6 +17,6 @@ https://leetcode-cn.com/problems/move-zeroes/description/
 
 21 / 21 个通过测试用例
 状态：通过
-执行用时：44 ms
+执行用时：40 ms
 我的提交执行用时
-已经战胜 99.87 % 的 python 提交记录
+已经战胜 100.00 % 的 python 提交记录
