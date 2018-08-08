@@ -16,6 +16,3 @@ https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/description/
 测试结果：
 36 / 36 个通过测试用例
 状态：通过
-执行用时：144 ms
-我的提交执行用时
-已经战胜 95.00 % 的 python 提交记录
