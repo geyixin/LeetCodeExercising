@@ -7,9 +7,5 @@ class Solution(object):
         temp = [i for i in range(len(nums)) if nums[i] == 0]
 
         for j in range(len(temp)):
-            if j == 0:
-                nums.pop(temp[j])
-                nums.append(0)
-            else:
-                nums.pop(temp[j]-j)
-                nums.append(0)
+            nums.pop(temp[j])
+            nums.append(0)
