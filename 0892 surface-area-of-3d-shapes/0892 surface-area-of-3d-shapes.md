@@ -1,7 +1,7 @@
 # 892 surface-area-of-3d-shapes(三维形体的表面积)
 
 + [题目链接](https://leetcode-cn.com/problems/surface-area-of-3d-shapes/)
-+ 跟我之前做的[463岛屿面积](https://github.com/geyixin/LeetCodeExercising)差不多，不多说了，直接附上代码
++ 跟我之前做的[463岛屿面积](https://github.com/geyixin/LeetCodeExercising/tree/master/0463%20Island%20Perimeter)差不多，不多说了，直接附上代码
 ```
 class Solution :
 	def surfaceArea(self, grid) :
