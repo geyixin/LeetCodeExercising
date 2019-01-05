@@ -27,5 +27,4 @@ class Solution :
 								print(i, j, res)
 								return res
 ```
-+ 
 
